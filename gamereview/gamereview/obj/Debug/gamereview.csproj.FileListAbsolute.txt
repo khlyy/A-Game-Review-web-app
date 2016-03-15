@@ -1,0 +1,13 @@
+c:\users\mohamed khaled\documents\visual studio 2010\Projects\gamereview\gamereview\bin\gamereview.dll
+c:\users\mohamed khaled\documents\visual studio 2010\Projects\gamereview\gamereview\bin\gamereview.pdb
+c:\users\mohamed khaled\documents\visual studio 2010\Projects\gamereview\gamereview\obj\Debug\gamereview.dll
+c:\users\mohamed khaled\documents\visual studio 2010\Projects\gamereview\gamereview\obj\Debug\gamereview.pdb
+C:\Users\هف\Desktop\gamereview (2)-1\New Folder\gamereview\gamereview\bin\gamereview.dll
+C:\Users\هف\Desktop\gamereview (2)-1\New Folder\gamereview\gamereview\bin\gamereview.pdb
+C:\Users\هف\Desktop\gamereview (2)-1\New Folder\gamereview\gamereview\obj\Debug\gamereview.dll
+C:\Users\هف\Desktop\gamereview (2)-1\New Folder\gamereview\gamereview\obj\Debug\gamereview.pdb
+C:\Users\toshiba\Desktop\MS4_Team48\Team_48\gamereview\gamereview\bin\gamereview.dll
+C:\Users\toshiba\Desktop\MS4_Team48\Team_48\gamereview\gamereview\bin\gamereview.pdb
+C:\Users\toshiba\Desktop\MS4_Team48\Team_48\gamereview\gamereview\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\MS4_Team48\Team_48\gamereview\gamereview\obj\Debug\gamereview.dll
+C:\Users\toshiba\Desktop\MS4_Team48\Team_48\gamereview\gamereview\obj\Debug\gamereview.pdb

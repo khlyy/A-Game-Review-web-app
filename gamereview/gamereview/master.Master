@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="master.master.cs" Inherits="gamereview.master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+     <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="Styles/bootstrap.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <nav class="navbar navbar-default"/>
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">GAME REVIEW </a>
+    </div>
+    <div>
+      <ul class="nav navbar-nav">
+        <li class="active">
+            &nbsp;&nbsp;
+           
+          </li>
+          <li>
+              &nbsp;&nbsp;
+             
+          </li>
+        <li><a href="#">
+         <asp:Button ID="Button1" runat="server" BorderStyle="None" Text="Profile" 
+                Width="92px" onclick="Button1_Click" /> </a></li>
+                <li><a href="#">
+                 <asp:Button ID="Button2" runat="server" BorderStyle="None" Text="Conferences" 
+                  Width="92px" onclick="Button2_Click" /> </a></li>
+                  <li><a href="#">
+            <asp:Button ID="Button3" runat="server" BorderStyle="None" Text="Communities" 
+                Width="92px" onclick="Button3_Click" />
+            </a></li>
+            <li><a href="#">
+            <asp:Button ID="Button4" runat="server" BorderStyle="None" Text="Games" 
+                Width="92px" onclick="Button4_Click" />
+            </a></li>
+            <li><a href="#">
+            <asp:Button ID="Button5" runat="server" BorderStyle="None" Text="Logout" 
+                Width="92px" onclick="Button5_Click" />
+            </a></li>
+      </ul>
+    </div>
+    </nav>
+    <div>
+    <div class="container">
+</div>
+<div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        &nbsp;</div>
+        
+    
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    
+    </form>
+</body>
+</html>
